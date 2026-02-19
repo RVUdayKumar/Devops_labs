@@ -1,8 +1,6 @@
 provider "azurerm" {
     features {
       client_id = "feefw"
-  tenant_id = "fffwwffesfsf"
+  tenant_id = "fffwwffesfsfgegtgregerf"
     }
-  client_id = "feefwfsed"
-  tenant_id = "ffsffffwwffesfsf"
 }
